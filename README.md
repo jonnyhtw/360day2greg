@@ -2,7 +2,7 @@
 Code to convert daily mean 360-day-calendar climate model data to Gregorian taking leap years into account.
 
 # DOI
-[![DOI](https://zenodo.org/badge/541836316.svg)](https://zenodo.org/badge/latestdoi/541836316)
+[![DOI](https://zenodo.org/badge/7121366.svg)](https://zenodo.org/badge/latestdoi/7121366)
 
 # Example input data
 Here's some data to use to verify it's working (i.e. the filename as included in the Jupyter notebook). I'll work out how to properly cite the data later using the right DOI number etc. For now the filename alone should suffice to find it on the ESGF.
